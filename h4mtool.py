@@ -32,7 +32,7 @@ menu = Fore.WHITE+"""
      ║                                             ║    server and captures commands                   ║
      ║  clear                                      ║    Clear screen                                   ║
      ╚═════════════════════════════════════════════╩═══════════════════════════════════════════════════╝
-                                    https://es.namemc.com/profile/H4M.2
+                                    https://es.namemc.com/ipforwarding
                                       https://github.com/SuccessCod3                              """
 
 menuscan = Fore.WHITE+"""
@@ -47,7 +47,7 @@ menuscan = Fore.WHITE+"""
      ║                                             ║                                                   ║
      ║  clear                                      ║    Clear screen                                   ║
      ╚═════════════════════════════════════════════╩═══════════════════════════════════════════════════╝
-                                    https://es.namemc.com/profile/H4M.2
+                                    https://es.namemc.com/ipforwarding
                                       https://github.com/SuccessCod3                              """
 
 def clear():
